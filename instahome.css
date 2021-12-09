@@ -1,0 +1,242 @@
+body{
+    margin: 0px;
+}
+
+.header{
+    top: 0px;
+    height: 50px;
+    width: 100%;
+    background-color: #ffff;
+    border: 1px solid #dddfe2;
+    position: fixed;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 18%;
+    width: 103px;
+    height: 29px;
+    float: left;
+}
+.search{
+    margin-top: 10px;
+    margin-left: 18%;
+    width: 200px;
+    height: 25px;
+    border: 1px solid #dddfe2;
+    border-radius: 5px;
+    float: left;
+}
+.icon1{
+    margin-top: 10px;
+    margin-left: 8%;
+}
+.icon2{
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.dp{
+    margin-top: 10px;
+    margin-left: 8px;
+    width: 27px;
+    height: 27px;
+}
+.main{
+    margin-top: 80px;
+    margin-left: 18%;
+    height: 100px;
+    width: 40%;
+    background-color: #ffff;
+    border: 1px solid #dddfe2;
+    display: flex;
+}
+.img1 img{
+    
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    
+}
+.first{
+    width: 15%;
+    height: 100%;
+}
+.img1{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.username{
+    padding-left: 10px;
+    
+}
+.post1{
+    margin-top: 15px;
+    margin-left: 275px;
+    height: 60px;
+    width: 605px;
+    border: 1px solid #dddfe2;
+}
+.dp1 img{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.dp1{
+    float: left;
+    padding-left: 10px;
+}
+.name{
+    float: left;
+    padding-left: 15px;
+}
+.post2{
+    margin-left: 275px;
+    height: 500px;
+    width: 605px;
+
+}
+.post2 img{
+    margin-top: 0px;
+    height: 500px;
+    width: 605px;
+
+}
+.post3{
+    margin-left: 275px;
+    height: 40px;
+    width: 605px;
+    border: 1px solid #dddfe2;
+    border-bottom: 0px;
+}
+.a{
+    margin-left: 3px;
+    margin-top: 15px;
+}
+.b{
+    margin-left: 480px;
+}
+.post4{
+    margin-top: 15px;
+    margin-left: 275px;
+    height: 50px;
+    width: 605px;
+    border: 1px solid #dddfe2;
+    border-top: 0px;
+}
+
+.para{
+    margin-left: 10px;
+    
+}
+.post5{
+    height: 40px;
+    width: 605px;
+    border: 1px solid #dddfe2;
+    margin-left: 275px;
+}
+.post5 svg{
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.ipost{
+    margin-left: 15px;
+    border: 0px;
+}
+.cpost{
+    margin-left: 340px;
+    border: 0px;
+    color: blue;
+    background-color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+.left{
+    position: fixed;
+    top: 50px;
+    margin-left: 900px;
+    height: 3000px;
+    width: 500px;
+}
+.left img{
+    margin-left: 20px;
+    margin-top: 35px;
+    height: 60px;
+    width: 60px;
+    float: left;
+}
+.left1{
+    margin-top: 10px;
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+.left1 input{
+    margin-top: 55px;
+    margin-left: 100px;
+    border: 0px;
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+
+}
+.user{
+    padding-left: 10px;
+    margin-top: 55px;
+    float: left;
+}
+.suggestion{
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+    color: rgb(90, 90, 90);
+}
+ .left3{
+    margin-top: 150px;
+    margin-left: 15px;
+    width: 350px;
+    height: 280px;
+}
+.pic{
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+}
+.picname{
+    margin-left: 15px;
+    height: 50px;
+    width: 200px;
+}
+.picbutton{
+    margin-top: 10px;
+    margin-left: 96px;
+    height: 50px;
+    width: 50px;
+}
+.pic img{
+    width: 45px;
+    height: 45px;
+    margin: 0px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+.picbutton input{
+    color: blue;
+    background-color: white;
+    border: 0px;
+    font-weight: bold;
+}
+.left3_1{
+    width: 330px;
+    height: 60px;
+}
+.left3_2{
+    margin-top: 5px;
+    width: 330px;
+    height: 60px;
+}
+.pre{
+    color: thistle;
+    font-weight: lighter;
+}
